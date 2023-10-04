@@ -1,0 +1,29 @@
+
+Key matrix:
+  67  42  69  24  80   5  80  78   9
+  20  91  89  69  79  19  47  89  80
+  34  68  77  33  75  84  76   5  66
+  90  16  23  52  48  14  59   2  94
+  42  25  14  57  21  18  70  45  69
+  18  93  42  95  71  83  38  13  42
+  10  46  15  10  67  94  52  43  81
+  13  91  65  47  93  96  15  43  85
+  71  70  48  78  10  51  90  32  83
+
+Plaintext:
+wearywithtoilihastemetomybedthedearreposeforlimbswithtraveltiredbutthenbeginsajo
+urneyinmyheadtoworkmymindwhenbodysworksexpiredforthenmythoughtsfromfarwhereiabid
+eintendazealouspilgrimagetotheeandkeepmydroopingeyelidsopenwidelookingondarkness
+whichtheblinddoseesavethatmysoulsimaginarysightpresentsthyshadowtomysightlessvie
+wwhichlikeajewelhunginghastlynightmakesblacknightbeauteousandheroldfacenewlothus
+bydaymylimbsbynightmymindfortheeandformyselfnoquietfindsonnetwilliamshakespearex
+xxxxxx
+
+Ciphertext:
+zcyshystrnsncmgvtzmqgckeziqpyltkxqymmlpkxlwzaovcgmlfyftwlxervocljbgjprgxgkvrdhqq
+abecoqqfnvrrhlyqmbiphemazmkzymlmnubegtnkzjakazuczggcyzrxvqxcmpongxmecxrredczpfph
+dxzsovprhhrcwrhgvycwaatgegwselcswruwdduxyaczukbuuvxbllkqhxqvvmctuqxubumtdkmkavlj
+gnxfvoolxmtictmyydrrwbdktcyyrujlciibhcfhzbhxiiilfvacjbzctzrplgmnvuntrnfyzatpooph
+tiykzjitmmezevrmniuwxmpeimfmudtwgrjmdizdmmmanklumbrjonhtkfddxreytvafgyqqwkrpffjd
+wuhydcdulfsmclfsycoclhjlzgootenocgyvutzjvlhozysnnkocjyxcpuonzjuatlunwawbtjeqsmqs
+qkuwhz

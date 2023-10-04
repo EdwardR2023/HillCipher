@@ -1,0 +1,12 @@
+
+Key matrix:
+   2   4
+   3   5
+
+Plaintext:
+notonlyistheuniversestrangerthanwethinkitisstrangerthanwecanthinkwernerheisenber
+gx
+
+Ciphertext:
+efqxsqciitepovwzytawitizyrytooaniiooqlassteocmancmgqovktqwanooqlekytqhkioaawesyt
+ad
