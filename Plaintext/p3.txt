@@ -1,0 +1,9 @@
+Enigma cipher machines
+
+The Enigma cipher machine is arguably the most famous cipher machine in the world, not least because of the important role it played during World War II (WWII), while at the same time it was broken at an uprecedented scale. Based on the principle of the rotor machine, the text is scrambled by electrically wired rotors. This page provides an index to the various models, accessories, simulators, manufacturers, patents and related subjects.
+
+Please note that there is no such thing as the Enigma. Enigma is the brand name of a series of cipher machines, developed before and during WWII, some of which are compatible with each other, and some of which are not. If your are interested in the history of Enigma, you might want to check the Enigma Family Tree, the Enigma Timeline, or the Enigma Glossary.
+
+Before and during WWII, Enigma was the inspiration for many other designs of rotor cipher machines, such as the British Typex and the American SIGABA. And even after the war, some cipher machines were based on the same principle, such as the American KL-7, the Russian Fialka and the Swiss Nema.
+
+Source: https://cryptomuseum.com/crypto/enigma/index.htm
